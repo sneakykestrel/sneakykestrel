@@ -1,1 +1,3 @@
-<img src="https://files.catbox.moe/871hng.gif">
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+
