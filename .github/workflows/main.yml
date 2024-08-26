@@ -13,4 +13,7 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           IMG_ALT: kitty
+          ALIGN: left
+          WIDTH: ""
+          HEIGHT: ""
         
