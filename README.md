@@ -1,5 +1,5 @@
 i tell the computer to do things and sometimes it actually listens to me
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/sneakykestrel/sneakykestrel/main/.github/images/this-is-me-btw.gif height="" width="" align=left alt=kitty />
+<img src=https://raw.githubusercontent.com/sneakykestrel/sneakykestrel/main/.github/images/shut-up.gif height="" width="" align=left alt=kitty />
 <!--END_SECTION:update_image-->
 
